@@ -13,11 +13,13 @@ This project involves analyzing shark attack data to uncover trends and insights
 To set up the project, follow these steps:
 
 1. Clone the repository:
-    ``git clone https://github.com/YoavYekutiel/Shark_Attack_Project.git
+     ```
+    git clone https://github.com/YoavYekutiel/Shark_Attack_Project.git
 
     ```
 2. Navigate to the project directory:
-    ```cd Shark_Attack_Project
+    ```
+    cd Shark_Attack_Project
 
     ```
 3. Install the required dependencies:
@@ -27,8 +29,9 @@ To set up the project, follow these steps:
     ```
 4.Create and activate a virtual environment (optional but recommended):
     ```
-   python3 -m venv env
+    python3 -m venv env
     source env/bin/activate  # On Windows use `env\Scripts\activate`
+    
     ```
 
 ## Usage
