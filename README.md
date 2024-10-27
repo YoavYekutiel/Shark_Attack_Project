@@ -28,10 +28,20 @@ To set up the project, follow these steps:
 
     ```
 4.Create and activate a virtual environment (optional but recommended):
+On macOS/Linux:
     ```
     python3 -m venv env
-    source env/bin/activate  # On Windows use `env\Scripts\activate`
-    
+source env/bin/activate
+
+
+    ```
+
+On Windows:
+ ```
+  python -m venv env
+env\Scripts\activate
+
+
     ```
 
 ## Usage
