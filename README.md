@@ -44,7 +44,7 @@ env\Scripts\activate
 
     ```
 
-## Usage
+##Usage
 
 To run the analysis, open the provided Jupyter notebook and execute the cells sequentially. The notebook includes code and visualizations that guide you through the analysis process.
 
@@ -54,7 +54,7 @@ To run the analysis, open the provided Jupyter notebook and execute the cells se
     ```
 2. Open the `Shark Attack - 5.ipynb` file and run the cells to see the analysis.
 
-## Features
+##Features
 
 1. **General Information:**
    - 80% of those attacked are male, 10% are female, and the remaining 10% are unknown.
@@ -77,15 +77,15 @@ To run the analysis, open the provided Jupyter notebook and execute the cells se
    - There are slightly more attacks occurring around noon and fewer in the morning hours.
    - In the USA, women are attacked more during wading and less during surfing compared to worldwide trends.
 
-## Contributing
+##Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-## License
+##License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+##Contact
 
 If you have any questions or feedback, feel free to reach out to Yoav Yekutiel at yoavyekuti@gmail.com.
 
